@@ -1,0 +1,22 @@
+[
+    {
+        "encoding": "utf8",
+        "entries" : [
+            {
+                "key": "first sentence",
+                "value": "first translated sentence",
+                "adding_spaces": "allow"
+            },
+            {
+                "key": "second sentence",
+                "value": "second translated sentence",
+                "adding_spaces": "allow"
+            },
+            {
+                "key": "sentence with \"quotes\"",
+                "value": "translation with special character\n",
+                "adding_spaces": "allow"
+            }
+        ]
+    }
+]

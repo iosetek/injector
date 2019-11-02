@@ -1,0 +1,17 @@
+[
+    {
+        "encoding": "utf8",
+        "entries": [
+            {
+                "key": "phrase",
+                "value": "A",
+                "adding_spaces": "allow"
+            },
+            {
+                "key": "longer phrase",
+                "value": "B",
+                "adding_spaces": "allow"
+            }
+        ]
+    }
+]
